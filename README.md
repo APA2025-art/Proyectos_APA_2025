@@ -10,6 +10,11 @@ git config  --global user.name "APA2025-art"
 git  config --global  user.email "alumnado.profe.alessandro25@gmail.com
 git config --global core.editor "code --wait"
 
+git clone https://github.com/APA2025-art/Proyectos_APA_2025.git
+
+dir
+cd Proyectos_APA_2025
+
 git pull
 git add .
 git commit -m ""
@@ -22,3 +27,6 @@ https://code.visualstudio.com/
 https://cade-simu.com/#Contrase%C3%B1a_CadeSimu
 
 Clave Cade Simu 4962
+
+Autocad .rar
+https://mega.nz/file/nYcTBThT#pvQ51nogUariKlqpxxOmH31o1_edm7A_bXpCMmI3MX8
