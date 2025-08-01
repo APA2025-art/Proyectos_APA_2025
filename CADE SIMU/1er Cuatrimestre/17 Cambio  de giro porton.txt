@@ -1,0 +1,3 @@
+Arranque de motor con cambio de giro de porton de garage
+con final  de  carrera y alumbrado con retardo de desconecciòn de 10 segundos
+luego de cerrado el portòn.
