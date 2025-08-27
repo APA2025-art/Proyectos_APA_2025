@@ -6,10 +6,13 @@ winget install --id Git.Git -e --source winget
 
 And reload prompt
 
-git config  --global user.name "APA2025-art"
-git  config --global  user.email "alumnado.profe.alessandro25@gmail.com
+Log in:
+git config  --global user.name "APA2025-art" && git  config --global  user.email "alumnado.profe.alessandro25@gmail.com
+
+Opcional:
 git config --global core.editor "code --wait"
 
+Clone repository:
 git clone https://github.com/APA2025-art/Proyectos_APA_2025.git
 
 dir
