@@ -1,0 +1,41 @@
+Comandos AutoCad 29-10
+
+Prismarect _box
+Poligono 3 sides
+F2 muestra los comandos 
+Manijita Cilindro 0.02
+SCP click en las esquinas 
+SCP double enter get back to normal view
+
+Comando: PRISMARECT
+
+Precise primera esquina o [Centro]:
+
+Se requiere un punto o una opción.
+
+Precise primera esquina o [Centro]:
+Precise otra esquina o [Cubo/Longitud]:
+>>Indique nuevo valor para ORTHOMODE <0>:
+Reanudando el comando PRISMARECT.
+
+Precise otra esquina o [Cubo/Longitud]: @9,0.3,4
+
+Comando: PRISMARECT
+
+Precise primera esquina o [Centro]:  <Refent activado>
+Precise otra esquina o [Cubo/Longitud]: @0.15,-4,4
+
+Comando:
+Pulse ESC o INTRO para salir, o haga clic con el botón derecho para ver el menú contextual.
+Regenerando modelo.
+
+Comando: OCULTA
+Regenerando modelo.
+
+Comando: SOMBRA
+
+Comando: PLANTA
+
+Indique una opción [scp Actual/SCP/Universal] <Actual>:
+
+Guardado automático en C:\Users\AutoCAD\appdata\local\temp\Dibujo1_1_1_7083.sv$ ...
